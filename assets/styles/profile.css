@@ -1,0 +1,64 @@
+
+.profile-card-detail .education {
+  margin: 5px 0 5px 0;
+}
+
+.profile-card-detail .widget-head-color-box {
+  padding: 20px;
+  margin-top: 0;
+}
+
+.profile-card-detail .buttons {
+  margin-top: 15px;
+}
+
+.profile-card-detail .center-contents {
+  margin-bottom: -20px;
+}
+
+.detail-informations {
+  margin-top: 20px;
+}
+
+.profile-image {
+  width: 110px;
+  height: 110px;
+}
+
+.center-contents .btn {
+  border: white 1px solid;
+}
+
+#person-type {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.username, .name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.profile-detail-skills.label {
+  border: solid 1px grey;
+  margin: 0 0 10px 50px;
+  padding: 10px;
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#center-contents .detail-informations .placeholder {
+  color: rgb(142, 142, 142);
+  font-weight: bold;
+  width: 200px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 30px !important;
+}
+
+

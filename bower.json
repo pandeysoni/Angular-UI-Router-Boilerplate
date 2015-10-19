@@ -1,0 +1,21 @@
+{
+  "name": "expaus",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "license": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.3",
+    "angular-route": "~1.2.x",
+    "angular-resource": "~1.2.x",
+    "jquery": "~2.1.3",
+    "jasny-bootstrap": "~3.1.3",
+    "angular-ui-bootstrap": "~0.12.0",
+    "angular-bootstrap": "0.12.1",
+    "angular-ui-router": "~0.2.15"
+  },
+  "resolutions": {
+    "angular": "~1.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+.chat-view {
+  color: #1ab394;
+}
+.info-view {
+  color: white;
+}
+.widget-top {
+  z-index: 500 !important;
+}
+.widget-behind { 
+  z-index: 100 !important;
+}

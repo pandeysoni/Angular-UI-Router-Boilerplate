@@ -1,0 +1,90 @@
+
+#center-contents .search-result-view .ibox a {
+  color: inherit;
+}
+
+#center-contents .search-result-view .ibox-content {
+  padding: 5px 20px 10px 20px
+  }
+
+#center-contents .search-result-view .profile-card img {
+  margin: 10px 0 10px 15px;
+  width: 120px;
+  height: 110px;
+}
+
+#center-contents .search-result-view .ibox .btn {
+  padding: 3px 10px;
+}
+
+#center-contents .search-result-view .ibox p  {
+  margin: 0;
+}
+
+#center-contents .search-result-view .profile-card h2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.search-result-view .skill-tags .label {
+  padding: 7px 25px;
+  margin-right: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#start-chat {
+  width: 100px;
+}
+
+.skill-tags {
+  margin: 5px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.designer {
+  color: orangered;
+}
+
+.engineer {
+  color: green;
+}
+
+.presenter {
+  color: blue;
+}
+
+.introduction {
+  height: 55px;
+  max-height: 55px;
+  overflow: hidden;
+  margin-bottom: 5px;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.portfolio-indicator {
+  width: 120px;
+  margin-top: 5px;
+  margin-left: 16px;
+  text-align: center;
+}
+
+.portfolio-indicator i {
+  font-size: 20px;
+}
+
+.portfolio-indicator div {
+  font-size: 10px;
+}
+
+.available {
+  color: #1ab394; 
+}
+

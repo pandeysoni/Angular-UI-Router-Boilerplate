@@ -1,0 +1,93 @@
+.signup-tab a:hover {  
+  color: #000000;
+}
+  .signup-tab {
+  background-color: #ffffff;
+
+
+}
+  .signup-tab-header {
+  background-color: #174D5A;
+  width: 100%;
+  height: 60px; 
+  padding: 20px;
+  font-size: 22px;
+  font-weight: 900;
+  color: #ffffff;
+  
+}
+ .signup-tab-content {
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+}
+
+.btn-register {
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+  font-weight: 900;
+    background-color: #174D5A;
+  color: #ffffff;
+}
+
+.btn-login {
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+  font-weight: 900;
+  background-color: #EFE41D;
+  color: #ffffff;
+  border: none;
+}
+
+.confirm-tab a:hover {  
+  color: #000000;
+}
+  .confirm-tab {
+  background-color: #ffffff;
+  height: 260px;
+
+}
+  .confirm-tab-header {
+  background-color: #174D5A;
+  width: 100%;
+  height: 60px; 
+  padding: 20px;
+  font-size: 22px;
+  font-weight: 900;
+  color: #ffffff;
+  
+}
+
+ .confirm-tab-content {
+  width: 100%;
+  margin: auto 0;
+  padding: 20px;
+}
+
+.confirm-button-advertiser {
+  width: 45%;
+  height: 150px;
+  background-color: #ffffff;
+  border: 4px solid red;
+  float: left;
+  font-size: 26px;
+  font-weight: 900;
+  color: red;
+  padding: 30px;
+  text-align: center;
+}
+
+.confirm-button-influencer {
+  text-align: center;
+  width: 45%;
+  height: 150px;
+  background-color: #ffffff;
+  border: 4px solid #15586A;
+  float: right;
+  font-size: 26px;
+  font-weight: 900;
+  color: #15586A;
+  padding: 30px;
+}
