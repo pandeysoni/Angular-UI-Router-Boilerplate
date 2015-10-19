@@ -11,4 +11,5 @@ pids
 logs
 results
 bower_components
+npm-debug.log
 /.idea
